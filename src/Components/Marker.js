@@ -27,7 +27,7 @@ const Marker = ({ color, name, newPosition }) => {
                 <h3 >My location</h3>
                 <hr className="m-0 border-light mb-1"></hr>
                 <p className="pl-2 text-left"><b>Latitude</b>: {newPosition.lat}</p>
-                <p className="pl-2"><b>Longitude</b>: {newPosition.lng}</p>
+                <p className="pl-2 text-left"><b>Longitude</b>: {newPosition.lng}</p>
             </ToolTip>
         }
         <div
