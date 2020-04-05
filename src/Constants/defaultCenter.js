@@ -1,0 +1,1 @@
+export default {center: {lat: 23.3897555,lng: 32.5934784},zoom: 11}
